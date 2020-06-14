@@ -1,0 +1,38 @@
+#EXTM3U name="凤凰"
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" ,凤凰中文
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯",凤凰资讯
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" ,凤凰中文1备
+http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" ,凤凰资讯1备
+http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" ,凤凰中文2备
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" ,凤凰资讯2备
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" ,凤凰中文3备
+http://125.210.152.21:9090/live/FHZW.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" ,凤凰资讯3备
+http://125.210.152.21:9090/live/FHZX.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" ,凤凰中文3备
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" ,凤凰资讯4备
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" ,凤凰电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:0,星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:0,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:0 tvg-id="259" tvg-name="CHANNEL[V]" ,Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:0,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+#EXTINF:0,国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
