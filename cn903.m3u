@@ -128,3 +128,11 @@ http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:0 tvg-id="6039" tvg-name="动物星球" group-title="港澳台",动物星球
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
+#EXTINF:0 tvg-name="CNN" group-title="美国",CNN
+http://millennialstreams.xyz:80/Apr21NANWANG/9886834223/62346
+#EXTINF:0 tvg-name="CNBC" group-title="美国",CNBC
+http://millennialstreams.xyz:80/Apr21NANWANG/9886834223/62327
+#EXTINF:0 tvg-name="ABC News" group-title="美国",ABC News
+http://millennialstreams.xyz:80/Apr21NANWANG/9886834223/62360
+#EXTINF:0 tvg-name="FOX News" group-title="美国",FOX News
+http://millennialstreams.xyz:80/Apr21NANWANG/9886834223/14237
