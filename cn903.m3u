@@ -52,6 +52,16 @@ http://192.168.50.1:8888/rtp/239.3.1.242:8000
 http://192.168.50.1:8888/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实",BTV冬奥纪实
 http://192.168.50.1:8888/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV生活",BTV生活
+http://192.168.50.1:8888/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV财经",BTV财经
+http://192.168.50.1.:8888/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV科教",BTV科教
+http://192.168.50.1:8888/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV青年",BTV青年
+http://192.168.50.1:8888/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-id="" tvg-name="卡酷动画",BTV卡酷
+http://192.168.50.1:8888/rtp/239.3.1.189:8000
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视",浙江卫视
 http://192.168.50.1:8888/rtp/239.3.1.137:8036
