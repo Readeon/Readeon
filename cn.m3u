@@ -1,15 +1,15 @@
-#EXTM3U name="中文节目"
+#EXTM3U name="中文"
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" group-title="港澳台",凤凰中文
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="联通IPTV",爱上4K
-http://readeon.ddns.net:58888/rtp/239.2.1.236:2000
+#EXTINF:-1 tvg-id="" tvg-name="爱上4K" group-title="联通IPTV",爱上4K
+http://readeon.ddns.net:58888/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="联通IPTV",4K超清
-http://readeon.ddns.net:58888/rtp/239.2.1.249:8002
+http://readeon.ddns.net:58888/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="联通IPTV",4K测试
-http://readeon.ddns.net:58888/rtp/239.2.1.104:8002
+http://readeon.ddns.net:58888/rtp/239.3.1.104:8001
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="联通IPTV",CCTV1综合
 http://readeon.ddns.net:58888/rtp/239.3.1.129:8008
@@ -49,9 +49,9 @@ http://readeon.ddns.net:58888/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" group-title="联通IPTV",CCTV17农业
 http://readeon.ddns.net:58888/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" group-title="联通IPTV",CETV1
-http://readeon.ddns.net:58888/rtp/239.2.1.57:8152
+http://readeon.ddns.net:58888/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" group-title="联通IPTV",纪实人文
-http://readeon.ddns.net:58888/rtp/239.2.1.212:8060
+http://readeon.ddns.net:58888/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" group-title="联通IPTV",金鹰纪实
 http://readeon.ddns.net:58888/rtp/239.3.1.58:8156
 
@@ -63,8 +63,19 @@ http://readeon.ddns.net:58888/rtp/239.3.1.159:8000
 http://readeon.ddns.net:58888/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" group-title="联通IPTV",BTV影视
 http://readeon.ddns.net:58888/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" group-title="联通IPTV",BTV冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" group-title="联通IPTV",BTV冬奥
 http://readeon.ddns.net:58888/rtp/239.3.1.243:8000
+
+#EXTINF:-1 tvg-id="" tvg-name="BTV生活" group-title="联通IPTV",BTV生活
+http://readeon.ddns.net:58888/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV财经" group-title="联通IPTV",BTV财经
+http://readeon.ddns.net:58888/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV科教" group-title="联通IPTV",BTV科教
+http://readeon.ddns.net:58888/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-id="" tvg-name="BTV影视" group-title="联通IPTV",BTV青年
+http://readeon.ddns.net:58888/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-id="" tvg-name="卡酷动画" group-title="联通IPTV",BTV卡酷
+http://readeon.ddns.net:58888/rtp/239.3.1.189:8000
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" group-title="联通IPTV",浙江卫视
 http://readeon.ddns.net:58888/rtp/239.3.1.137:8036
